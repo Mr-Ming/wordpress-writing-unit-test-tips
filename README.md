@@ -19,6 +19,7 @@ $clientMock
 * @runInSeparateProcess
 * @preserveGlobalState disabled
 ```
+^ Looking to find better solution, this one slows down performance considerably
 
 ### Some function that cannot be unit / integration tested?
 1. Private / Protected Method (but can be `hacked` using Reflection Method to overwrite method types)
