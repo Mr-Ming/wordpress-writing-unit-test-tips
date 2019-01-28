@@ -3,6 +3,7 @@
 ### How to mock function calls without dependency injection?
 
 First Install Mockery -> `composer require --dev mockery/mockery`
+
 Then you can use the code below
 
 ```
