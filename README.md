@@ -1,6 +1,4 @@
 
-!disclaimer: Please DON'T copy and paste code. Take some time to understand why its done that way and ask questions if necessary. 
-
 For anyone interested on tips in regards to writing unit test. 
 
 0- Structure of writing a unit test
